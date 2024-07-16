@@ -16,4 +16,4 @@ Frontend code is available at streamlit_app and open it in Anaconda Prompt.
  3. Type c: and click enter.
  4. Type streamlit run streamlit_app.py click enter.
 
-    # Username and Password is "admin".
+    # Username and Password is "admin".   lolllll
